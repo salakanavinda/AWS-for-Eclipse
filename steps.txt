@@ -1,0 +1,5 @@
+1) Configure AWS Account
+2) Create EC2 instance
+3) Install Eclipse EE tool in your pc
+4) Go to Help-> Eclipse MarcketPlace -> Select AWS toolkit and install
+5) Windwos -> Preferences -> AWS toolkit -> Set Again Global Configuration
